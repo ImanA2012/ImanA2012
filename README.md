@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @ImanA2012
-- 👀 I’m interested in art!
-- 🌱 I’m currently learning the create a website for GWC
-- 💞️ I’m looking to collaborate on nothing currently
+- 👀 I’m interested in art & python
+- 🌱 I’m currently learning to create a website for GWC
+- 💞️ I’m looking to collaborate only with my GWC group
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: i code!
+- ⚡ Fun fact: I code!
 
 <!---
 ImanA2012/ImanA2012 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
